@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Common Council for regulating the election of sheriffs and for repealing the treasonable and disloyal acts and proceedings of that court in the time of the late rebellion</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49006</idno>
+            <idno type="STC">Wing L2858</idno>
+            <idno type="STC">ESTC R919</idno>
+            <idno type="EEBO-CITATION">13656849</idno>
+            <idno type="OCLC">ocm 13656849</idno>
+            <idno type="VID">101038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Common Council for regulating the election of sheriffs and for repealing the treasonable and disloyal acts and proceedings of that court in the time of the late rebellion</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council.</term>
+               <term>Local elections --  England --  London.</term>
+               <term>Sheriffs --  England --  London --  Law and legislation.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101038:1" rendition="simple:additions"/>
+            <p>AN ACT OF COMMON COUNCIL For Regulating the Election of Sheriffs, AND For Repealing the Treaſonable and Diſloyal Acts and Proceedings of that COURT in the Time of the Late Rebellion.
+<figure>
+                  <figDesc>printer's device comprising the coat of arms of the Common Council; arms: argent a cross gules, in the first quarter a sword in pale point upwards of the last.</figDesc>
+               </figure>
+            </p>
+            <p>LONDON, Printed by Samuel Roycroft, Printer to this Honourable CITY, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:101038:2"/>
+            <pb n="1" facs="tcp:101038:2"/>
+            <figure>
+               <figDesc>Two woodcut panels each depicting the coat of arms of the Common Council; arms: argent a cross gules, in the first quarter a sword in pale point upwards of the last.</figDesc>
+               <head>Commune Concil' tent' in Camera <hi>Guildhall</hi> Civitat' <hi>London,</hi> die Mercurii ſexto die <hi>Junii,</hi> Anno Dom' <hi>1683.</hi> Annoque Regni Domini nostri <hi>CAROLI</hi> Secundi, nunc Regis <hi>Angl',</hi> &amp;c. Triceſimo quinto. Coram <hi>Willielmo Pritchard</hi> Mil', Major' Civitat' <hi>Lond', Willielmo Turner</hi> Mil', <hi>Ja<g ref="char:EOLhyphen"/>cobo Edwards</hi> Mil', <hi>Roberto Clayton</hi> Mil', <hi>Johanne Moore</hi> Mil', <hi>Henrico Tulſe</hi> Mil', <hi>Jacobo Smyth</hi> Mil', <hi>Roberto Geffery</hi> Mil', <hi>Johanne Peake</hi> Mil', <hi>Thoma Beckford</hi> Mil', <hi>Johanne Chapman</hi> Mil', <hi>Simone Lewis</hi> Mil', <hi>Jonathano Raymond</hi> Mil', &amp; <hi>Petro Daniel</hi> Armig' Aldermanis; Necnon major' part Communiar' dicte Civitat' in Communi Concil' tunc &amp; ibidem aſſemblat'.</head>
+            </figure>
+            <p>THis Day a Report was brought into this Court by the Committee appointed to inſpect the Acts and Proceedings entred in the Journals of this Court in the Times of Uſurpation, or at any time before or ſince, that might be fit to be Explained or Re<g ref="char:EOLhyphen"/>pealed: The Tenor of which Report is as followeth, that is to ſay,</p>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <opener>
+                     <salute>To the Right Honourable the <hi>Lord Mayor, Aldermen,</hi> and <hi>Commons</hi> of the City of <hi>London,</hi> in Common Council Aſſembled.</salute>
+                  </opener>
+                  <p>
+                     <hi>WHereas by a late Order of this Honourable Court it was referred unto us, whoſe Names are ſubſcribed, to inſpect the Acts and other Proceedings entred in the Journals of this Court in the Times of Uſurpation, or at any time before or ſince, that may be thought fit to be Explained or Repealed;
+<pb n="2" facs="tcp:101038:3"/> Now we do humbly certifie, That in purſuance of the ſaid Order, We have peruſed and examined the Journals of this Court in the Times of the late Rebellion, wherein we find not only many Innovations and Irregularities brought into this Court and the Government of this City; but alſo moſt pernicious and abomi<g ref="char:EOLhyphen"/>nable Proceedings, in abetting and carrying on thoſe Wicked and Unnatural Diviſions then raiſed in the Kingdom, and ſerving the Uſurpation of thoſe Times. All, or moſt of which, We perſwade our ſelves, could never have had place in this Court, had not Violence been offered to the Government of this City, the <hi>Lord Mayor</hi> been Arreſted and Impriſoned, divers Loyal <hi>Aldermen</hi> and <hi>Commoners,</hi> ſome Impriſoned, others Diſ<g ref="char:EOLhyphen"/>placed, and all <hi>Loyal Citizens</hi> generally diſcountenanced and diſcouraged, and Others of factious, unquiet and turbulent Spi<g ref="char:EOLhyphen"/>rits, got themſelves into the <hi>Common Council,</hi> and made up the greater Number therein. All which <hi>Acts</hi> and Proceedings might (as they well deſerve) be obliterated and wholly expunged, that no Remembrance thereof ſhould be tranſmitted to Poſte<g ref="char:EOLhyphen"/>rity to the ſhame and diſhonour of this Court and City; but that other Matters are therewith intermixed, which for the ſub<g ref="char:EOLhyphen"/>ſtance of them are, in our Opinions, inoffenſive, uſeful, and fit to be continued. Several <hi>Committees</hi> have formerly been ap<g ref="char:EOLhyphen"/>pointed by this Court to obliterate the ſaid unjuſt Proceedings, and there are Lines croſſed over divers of them, which (we preſume) were made by the ſaid Committees; but not being thereby obliterated, and ſtill remaining in the Books as the Acts and Proceedings of this Court, and never having been particularly Diſclaimed and Repealed by any Vote or Act of this Court, (that we have obſerved;) We think it very fitting, that the ſame, and all other like diſloyal and irregular Proceedings, ſhould by an expreſs Act of this Court be Renounced, Repealed, and made abſolutely Null and Void. Which Proceedings, or moſt of them, We have here ſet down and preſent to this Ho<g ref="char:EOLhyphen"/>nourable Court, for that purpoſe; and deſire that ſome few of them may be here openly read, to beget in this Court (as it hath done in Us) a juſt Abhorrence and Deteſtation of ſuch Proceedings; of which kind are the Proceedings following, En<g ref="char:EOLhyphen"/>tred in the Journals of this Court, <hi>viz.</hi>
+                     </hi>
+                  </p>
+                  <p>AN Order of <hi>Common Council,</hi> for taking the Proteſtation made in the <hi>Houſe of Commons, 29. May 1641.</hi>
+                  </p>
+                  <p>An Order made upon a Meſſage from the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi>
+                     <pb n="3" facs="tcp:101038:3"/> touching Fears and Dangers apprehended from Armed men at <hi>White-Hall,</hi> and other Preparations. <hi>4. Jan. 1641.</hi>
+                  </p>
+                  <p>Petition to be preſented to the King (with the Proceedings thereupon) repreſenting their Fears from <hi>Papiſts, &amp;c.</hi> and the Kings going to the <hi>Houſe</hi> to demand ſeveral Members. <hi>5. Jan. 1641.</hi>
+                  </p>
+                  <p>Orders and Proceedings touching raiſing of Guards, raiſing and ſending out Forces, and Officers for conducting them, making of Forts and Bulwarks, and other Acts of Diſloyalty relating thereunto. <hi>10, 19, &amp; 22. Jan. 12. Febr. 9, 17, &amp; 19. March 1641. 4, &amp; 15 April, 17 May, 1, 6, 15, &amp; 23 Septemb. 18 Octob. 23 Febr. 1, &amp; 15 March, 1642. 21 June, 8, &amp; 14 July, 11 Auguſt, 9 Sept. 9 Octob. 1, &amp; 30 Decemb. &amp; 16 Feb. 1643. 12, &amp; 17 Apr. 2, &amp; 9 May, 5, 7, &amp; 15 Jun. 2 Auguſt. 7, 13, &amp; 20 Sept. &amp; 16 Jan. 1644. 15, &amp; 29 April, 2 Sept. &amp; 3 Jan. 1645. 3 June, 1648, 4, 6, 15, 21, &amp; 27 July, &amp; 12 Auguſt, 1648. 17 April 1649.</hi>
+                  </p>
+                  <p>Orders and Determinations touching Election of <hi>Common Council Men</hi> in ſeveral Wards. <hi>19 Jan. &amp; 2 March, 1641. 9 Febr. 1645, 17 April, 1647.</hi>
+                  </p>
+                  <p>Order touching laying up Ammunition in the City for uſe of the <hi>Parliament:</hi> And other Orders touching <hi>Powder</hi> and other Military Proviſions. <hi>19 Jan. 1641. 9 July, 25 Auguſt, 15 Sept. 1642. 8, &amp; 17 April, 1644. 13 Jun. &amp; 4 July, 1645. 14 April. &amp; 23 Febr. 1646. 13 Auguſt 1647.</hi>
+                  </p>
+                  <p>Orders touching Sir <hi>John Biron,</hi> Lieutenant of the <hi>Tower, 19, &amp; 22 Jan. 1641.</hi>
+                  </p>
+                  <p>Reference upon a <hi>Remonſtrance</hi> of Grievances and Fears. <hi>22 Jan. 1641.</hi>
+                  </p>
+                  <p>Petition to the <hi>Lords Houſe,</hi> complaining that the <hi>Tower</hi> and other Forts are not in ſuch hands as the <hi>Parliament</hi> might confide in (wherewith the City would not otherwiſe be ſatisfied.) <hi>24 Jan. 1641.</hi>
+                  </p>
+                  <p>Petition to the <hi>Houſe of Commons,</hi> repreſenting Obſtructi<g ref="char:EOLhyphen"/>ons in raiſing Moneys to ſuppreſs the <hi>Iriſh. 24 Jan. 1641.</hi>
+                  </p>
+                  <p>Thanks to ſome Country Gentlemen, for acknowledging the <hi>Cities</hi> care of the Publick. <hi>14 Febr. 1641.</hi>
+                  </p>
+                  <p>Deciding a Queſtion touching Reading a <hi>Petition</hi> of divers Citizens. <hi>17 Febr. 1641.</hi>
+                  </p>
+                  <p>Reading a Petition of <hi>Vintrey-Ward,</hi> touching Election of their Alderman. <hi>2 March 1641.</hi>
+                  </p>
+                  <p>Diſmiſſion of Mr. <hi>Alden</hi> from the <hi>Common Council,</hi> for not taking the <hi>Proteſtation. 14 March 1641.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:101038:4"/>
+                  <p>Petitions to the <hi>Parliament</hi> touching the <hi>Militia</hi> of the King<g ref="char:EOLhyphen"/>dom. <hi>9, &amp; 17 March 1641.</hi>
+                  </p>
+                  <p>Orders for the <hi>Chamberlain</hi> to take up Money for Military Affairs. <hi>17 March. 1641. 18 Octob. 1642. 24 Feb. 1644. 13 Aug. 1647.</hi>
+                  </p>
+                  <p>Orders charging the <hi>Chamber</hi> with paiment of Military Of<g ref="char:EOLhyphen"/>ficers, and for other Military Affairs. <hi>4 &amp; 15 Apr. 23 Aug. 2 Decemb. &amp; 15 Feb. 1642. 4 Sept. 1645. 6 Novemb. &amp; 24 Jan. 1647. 30 May. 1648. 18 July. 1649.</hi>
+                  </p>
+                  <p>Orders for the <hi>Chamber</hi> to bear the charge of entertaining the <hi>Lords</hi> and <hi>Commons</hi> at ſeveral Trainings. <hi>9 July 1642. 20 May. 1646.</hi>
+                  </p>
+                  <p>Order touching lending Money and Plate for raiſing For<g ref="char:EOLhyphen"/>ces. <hi>2 Sep. 1642.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament's</hi> thanks for the Cities forwardneſs and affections, and the <hi>Common Council's</hi> thanks to the <hi>Parliament</hi> for aſſiſting them with Money towards their charges of raiſing Forces. <hi>6 Sept. 1642.</hi>
+                  </p>
+                  <p>Recommendation to the Citizens of the Earl of <hi>Eſſex</hi> his de<g ref="char:EOLhyphen"/>ſire to borrow One Hundred Thouſand Pounds. <hi>15 Sept. 1642.</hi>
+                  </p>
+                  <p>Suſpention of Mr. <hi>Weld, Town-Clerk, 15 Sept. 1642.</hi>
+                  </p>
+                  <p>Agreement to ſend out Twelve Companies for defence of Re<g ref="char:EOLhyphen"/>ligion, the King, Kingdom, Parliament and City, upon notice from the Parliament of Prince <hi>Rupert's</hi> approach <hi>18 Oct. 1642.</hi>
+                  </p>
+                  <p>A Committee appointed touching Malignant Miniſters. <hi>2. Decemb. 1642.</hi>
+                  </p>
+                  <p>Diſlike of a Petition of Mr. <hi>Osbolſtone</hi> and other Citizens to the Common Council to endeavour an end of the Warr, and an accomodation between the King and both Houſes. <hi>12. Decem. 1642.</hi>
+                  </p>
+                  <p>Petitions to the King and Parliament touching the King's return upon diſhonourable Terms, and Proceedings thereupon. <hi>16. Decemb. 9 and 18. Jan. 1642.</hi>
+                  </p>
+                  <p>Money to be advanced for the Parliament to prevent the Ar<g ref="char:EOLhyphen"/>mies disbanding; and Miniſters to ſtir up men for that pur<g ref="char:EOLhyphen"/>poſe. <hi>18. Feb. 1642.</hi>
+                  </p>
+                  <p>Propoſitions for reforming the Army. <hi>Ibid.</hi>
+                  </p>
+                  <p>Diſcharge of the <hi>Remembrancer</hi> and Cities <hi>Marſhals. Ibid.</hi>
+                  </p>
+                  <p>Propoſitions to the <hi>Parliament</hi> touching Monies to be raiſed for the Army, and other matters. <hi>21. Febr. 1642.</hi>
+                  </p>
+                  <p>Report to the <hi>Parliament</hi> touching Reformation of the Army, and a Religious <hi>Covenant</hi> and <hi>Aſſociation,</hi> with the <hi>Parlia<g ref="char:EOLhyphen"/>ment's</hi> Anſwer. <hi>23. Febr. 1642.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:101038:4"/>
+                  <p>Monies to be raiſed at deſire of the <hi>Parliament</hi> for the Earl of <hi>Eſſex</hi> preparing to go againſt Prince <hi>Rupert. 10. March. 1642.</hi>
+                  </p>
+                  <p>The <hi>Chamberlain</hi> to take up Monies (in all <hi>12000 <abbr>l.</abbr>
+                     </hi>) for the Fortifications. <hi>25. Marc. 4, 13 &amp; 25 May. 21 Jun. &amp; 6. Jul. 1643.</hi>
+                  </p>
+                  <p>Application to the <hi>Parliament</hi> for Aſſeſſments to be paid to the Treaſurers of Money and Plate at <hi>Guild-Hall. 25 March. 1643.</hi>
+                  </p>
+                  <p>Forty Thouſand Pounds advanced for the Army. <hi>6 April. 1643.</hi>
+                  </p>
+                  <p>Companies to lend their Arms for the Auxiliary Forces raiſ<g ref="char:EOLhyphen"/>ed in the City. <hi>27 April. 1643.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament</hi> to be moved for demoliſhing the Croſs in <hi>Cheap<g ref="char:EOLhyphen"/>ſide. Ibid.</hi>
+                  </p>
+                  <p>Propoſitions touching reducing <hi>Newcaſtle. 20 &amp; 25 May. &amp; 10 June. 1643.</hi>
+                  </p>
+                  <p>Orders and Reports upon a difference between the <hi>Militia</hi> and <hi>Sub-Committee</hi> at <hi>Salters-Hall. 7, 10, 14 &amp; 21 June. 1643.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for liſting of Horſes. <hi>21 June. 1643.</hi>
+                  </p>
+                  <p>Several Fifteens (Twenty Four in all) raiſed for Military affairs. <hi>5 Jan. &amp; 19 March. 1641. 23 Feb. 1642. 6 July. 1643.</hi>
+                  </p>
+                  <p>An Act repealing Two former Acts, whereby the <hi>Court of Aldermen</hi> were to nominate Two perſons to the <hi>Common-Hall</hi> for election of <hi>Chamberlain,</hi> and Four for election of <hi>Bridge-Ma<g ref="char:EOLhyphen"/>ſters,</hi> and the Comonalty to chooſe out of them and no others. <hi>21 June. 1643.</hi>
+                  </p>
+                  <p>A Search to be made upon complaint of Arms carried out of the City to the Enemy. <hi>14 July. 1643.</hi>
+                  </p>
+                  <p>Vpon notice of the <hi>King's</hi> Forces near the City, and a Riſing in <hi>Kent</hi> and <hi>Surrey,</hi> Monies to be advanced. <hi>18 July. 1643.</hi> And <hi>1 Aug. 1643.</hi> Fifty Thouſand Pounds ordered to be ad<g ref="char:EOLhyphen"/>vanced. Afterwards <hi>11 Aug. 1643.</hi> Fifty Thouſand Pounds to be raiſed by the <hi>Companies,</hi> and Fifty Subſidies by private perſons. <hi>26 Aug. 1643.</hi> an Ordinance of <hi>Parliament</hi> thereup<g ref="char:EOLhyphen"/>on. <hi>9 Septemb. 1643.</hi> the City Seal to be given for the ſaid Subſidies.</p>
+                  <p>Meſſage from <hi>Common Council</hi> to the Earl of <hi>Eſſex</hi> to aſſure him of their reſolutions to aſſiſt him. <hi>1 Aug. 1643.</hi>
+                  </p>
+                  <p>A Petition to the <hi>Houſe of Commons</hi> for puniſhment on De<g ref="char:EOLhyphen"/>linquents. <hi>6 Aug. 1643.</hi>
+                  </p>
+                  <p>A Committee to joyn with a Committee of <hi>Parliament</hi> for raiſing Monies. <hi>2 Octob. 1643.</hi>
+                  </p>
+                  <p>Orders touching Monies to be raiſed by ſparing weekly Meals. <hi>10 &amp; 22 Jan. 3, 8 &amp; 16 Feb. 1643. 30 March. 1644.</hi>
+                  </p>
+                  <pb n="6" facs="tcp:101038:5"/>
+                  <p>Order touching pulling down Houſes, &amp;c. near the Forts. <hi>10 Jan. 1643.</hi>
+                  </p>
+                  <p>Invitation of both Houſes and Aſſembly of Divines to Din<g ref="char:EOLhyphen"/>ner. <hi>12, 13, &amp; 22 Jan 1643.</hi>
+                  </p>
+                  <p>Order for a Petition to the <hi>Parliament,</hi> to ſettle the Church Government. <hi>22 Jan. 1643.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for Reforming and Recruiting the Army. <hi>26 Jan. 1643.</hi>
+                  </p>
+                  <p>A Loan of <hi>20000 <abbr>l.</abbr>
+                     </hi> to the <hi>Parliament. 4 April 1644.</hi>
+                  </p>
+                  <p>Order for preſenting to the <hi>Parliament</hi> a Petition of Soul<g ref="char:EOLhyphen"/>diers maimed in the Parliaments Service, to be admitted into <hi>Sutton</hi>'s Hoſpital. <hi>8 Apr. 1644.</hi>
+                  </p>
+                  <p>Order that no Petition be read in the Petitioners preſence. <hi>9 May 1644.</hi>
+                  </p>
+                  <p>
+                     <hi>Ralph Robinſon</hi> to pray before the <hi>Common Council. 9 May 1644.</hi>
+                  </p>
+                  <p>Petitions to the <hi>Parliament</hi> to continue their Endeavours in the Cauſe of God and the Kingdom, aſſuring them they will ſtand by them with their Lives and Eſtates according to the <hi>Co<g ref="char:EOLhyphen"/>venant. 9, &amp; 10 May 1644.</hi>
+                  </p>
+                  <p>Petition to the <hi>Houſe of Commons</hi> for puniſhment of Delin<g ref="char:EOLhyphen"/>quents, and not to readmit Members that had deſerted them. <hi>16, &amp; 18 May 1644.</hi>
+                  </p>
+                  <p>A Committee to conſider and promote the <hi>Parliaments</hi> deſire for raiſing <hi>2</hi> or <hi>300000 <abbr>l.</abbr> 28 May 1644.</hi>
+                  </p>
+                  <p>Suit made by Alderman <hi>Gibs</hi> to be diſcharged his place of Alderman. <hi>5 June 1644.</hi>
+                  </p>
+                  <p>An Ordinance deſired, to charge perſons for finding Arms. <hi>Ibid</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for Iuſtice upon Delinquents. <hi>22 July, &amp; 2 Auguſt 1644.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> touching Eſtates Sequeſtred. <hi>2 Aug. 1644.</hi>
+                  </p>
+                  <p>Ordinance to be preſented to the <hi>Parliament</hi> to raiſe Money for Forts and Guards. <hi>20 Aug 1644.</hi>
+                  </p>
+                  <p>Motion to the <hi>Parliament</hi> for fortifying <hi>Redding. 9 Sept. 1644.</hi>
+                  </p>
+                  <p>Reference touching raiſing <hi>20000 <abbr>l.</abbr>
+                     </hi> for ſetting out Forces to<g ref="char:EOLhyphen"/>wards the Weſt; and an Ordinance of <hi>Parliament</hi> thereupon. <hi>27 Sept. 2, &amp; 23 Oct. 1644.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> againſt Free-trade with Ports in Hoſtility. <hi>23 Oct. 44.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for fortifying <hi>Windſor, &amp;c. 9, &amp; 28 Nov. 1644.</hi>
+                  </p>
+                  <pb n="7" facs="tcp:101038:5"/>
+                  <p>Reference touching eaſing the <hi>Cities</hi> Charge out of Delin<g ref="char:EOLhyphen"/>quents Eſtates. <hi>28 Novemb. 1644.</hi>
+                  </p>
+                  <p>Ordinance deſired for further power to ſearch for Suſpicious Perſons. <hi>17, &amp; 27 Decemb. 1644.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for Ships of War to ſecure Trade in the Weſt. <hi>16, &amp; 24 Jan. 1644.</hi>
+                  </p>
+                  <p>Orders and Reſolutions touching the calling and managing of <hi>Common Councils, 24 Jan. 1644. And 24 Apr. 1645,</hi> A dif<g ref="char:EOLhyphen"/>ference betwéen the <hi>Mayor</hi> and <hi>Aldermen,</hi> and <hi>Commons,</hi> touch<g ref="char:EOLhyphen"/>ing the <hi>Mayor</hi> and <hi>Aldermens</hi> right of a Negative Voice pro<g ref="char:EOLhyphen"/>poſed to be determined by the <hi>Parliament,</hi> and order to ſuſpend their Right in the mean time.</p>
+                  <p>Reference upon a Motion for advancing <hi>80000 <abbr>l.</abbr>
+                     </hi> for the Ar<g ref="char:EOLhyphen"/>my, after refuſal of the Kings Propoſitions at <hi>Uxbridge. 4 March 1644.</hi>
+                  </p>
+                  <p>Col. <hi>Weſt</hi> (by virtue of an Order of <hi>Parliament</hi>) preſented to be Lieutenant of the <hi>Tower. 24 Apr. 1645.</hi>
+                  </p>
+                  <p>Propoſition for reducing of <hi>Oxford</hi> approved. <hi>16 May 1645.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for recruiting <hi>Fairfax</hi>'s Army, to regain <hi>Leiceſter, &amp;c.</hi> Alſo Order, that the <hi>Parliament</hi> be deſired that <hi>Maſſy</hi> may continue at <hi>Glouceſter. 7 June 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Common Council Men</hi> to move Inhabitants to ſupply Arms, Men or Money for relief of <hi>Taunton. 9 June 1645.</hi>
+                  </p>
+                  <p>Orders for paying Money raiſed for Military Affairs. <hi>9 No<g ref="char:EOLhyphen"/>vemb. 1644. 15 April, 16 May, 13 June, 4 July, 9, &amp; 26 Auguſt. 4, &amp; 15 Sept. 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament</hi> to be deſired, that the <hi>Scots</hi> Army may aſſiſt for the Regaining of <hi>Leiceſter. 14 June 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament</hi> and <hi>Aſſembly of Divines</hi> invited to Dinner at the charge of the <hi>Chamber,</hi> upon a Thankſgiving for Victory againſt the King: And the Committée for the Militia to joyn in raiſing a Body to purſue the Victory. <hi>17 Jun. 1645.</hi>
+                  </p>
+                  <p>Inhabitants to be ſtirred up to furniſh Arms and Money for relief of ſeveral Parts. <hi>12 Auguſt 1645.</hi>
+                  </p>
+                  <p>A <hi>Committee</hi> to ſet Fines upon Perſons not ſending out Souldiers. <hi>21 Auguſt 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Thirty thouſand Pounds</hi> deſired by the <hi>Parliament</hi> for the <hi>Scots</hi> Army, agréed to be raiſed. <hi>10 Octob. &amp; 6 Decemb. 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Chamberlain</hi> to furniſh Moneys for fitting out the <hi>Convoca<g ref="char:EOLhyphen"/>tion Houſe</hi> and <hi>Cloyſters</hi> at <hi>Paul's</hi> for Souldiers. <hi>20 Octob. &amp; 2 Feb. 1645. 22 May 1646.</hi>
+                  </p>
+                  <p>
+                     <hi>Six Thouſand Pounds</hi> to be advanced for the <hi>Parliament. 12 Novemb. 1645.</hi>
+                  </p>
+                  <p>Orders touching raiſing, advancing, or iſſuing out Money
+<pb n="8" facs="tcp:101038:6"/> raiſed for the <hi>Parliament</hi> or <hi>Army. 14 June, 21 July, 21 Auguſt, 21 Novemb. 18 Decemb. 9 Feb. 9 &amp; 24 March, 1645. 20 May, 30 Jun. 13 Aug. 9 &amp; 25 Sept. 25 Jan. 23 Feb. 1646. 26 March, 27 May, 25 Jun. 15 Decemb. 1647. 26 May, 27 July, 29 Auguſt, 6, &amp; 10 Jan. 1648. 24 May, 1649.</hi>
+                  </p>
+                  <p>Reference about ſettling Church Government. <hi>17 Nov. 8 Jan. 9 March, 1645.</hi> Petition to the <hi>Parliament</hi> touching the ſame. <hi>14 Jan. 1645.</hi> Another Petition, <hi>11 March, 1645.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament,</hi> acknowledging the <hi>Parliaments</hi> great care of their Liberties, &amp;c. againſt the Common Enemy, and touching Church Government; With the <hi>Citizens</hi> Petition to the <hi>Common Council</hi> touching the ſame. <hi>18 Nov. 1645.</hi>
+                  </p>
+                  <p>Day of Humiliation appointed; and then the <hi>Oath</hi> and <hi>Co<g ref="char:EOLhyphen"/>venant</hi> to be adminiſtred by one of the Miniſters to the <hi>Lord Mayor, Aldermen</hi> and <hi>Common Council. 8 Jan. 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament</hi> to be moved for <hi>20000 <abbr>l.</abbr>
+                     </hi> out of the <hi>Exciſe,</hi> and <hi>2000 <abbr>l.</abbr> per</hi> Month for <hi>6</hi> Months towards the charges of Forti<g ref="char:EOLhyphen"/>fications and Guards. <hi>8 Jan. 1645.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for <hi>20000 <abbr>l.</abbr>
+                     </hi> more, for Military Affairs. <hi>6 July 1647.</hi>
+                  </p>
+                  <p>Reference upon a Petition againſt <hi>Citizens</hi> deſerting the Ci<g ref="char:EOLhyphen"/>ty and bearing Arms, and driving Trades in the Enemies Quarters. <hi>30 Jan. 1645.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for the Militia, grounded upon their former good Services to the <hi>Parliament;</hi> with Alderman <hi>Fowkes</hi>'s Speech and other Proceedings thereupon. <hi>6 &amp; 9 Febr. 1645.</hi>
+                  </p>
+                  <p>Order for reading the <hi>Covenant</hi> in <hi>Common Council</hi> once a Quarter, and ſtrict Enquiry after ſuch Members as had not taken it. <hi>9 Feb. 1645.</hi>
+                  </p>
+                  <p>
+                     <hi>Common Councils</hi> Reſolutions to keep the <hi>Covenant, &amp;c.</hi> declared to <hi>Commiſſioners</hi> ſent with a Letter from <hi>Scotland, 11 Febr. 1645.</hi>
+                  </p>
+                  <p>Another Letter from <hi>Scotland. 10 July 1646.</hi>
+                  </p>
+                  <p>Order of <hi>Common Council</hi> touching Members refuſing to take the <hi>Covenant</hi> the laſt Humiliation Day. <hi>11 March 1645.</hi>
+                  </p>
+                  <p>Members of <hi>Parliament,</hi> Prince <hi>Palatine, Aſſembly of Di<g ref="char:EOLhyphen"/>vines,</hi> and Others, invited to Dinner at the Charge of the <hi>Chamber,</hi> on a Thankſgiving Day for ſeveral Victories. <hi>26 March 1646.</hi>
+                  </p>
+                  <p>Order for Election of Officers in <hi>Common Hall</hi> on the <hi>25th</hi> of <hi>June,</hi> a Faſt being appointed on <hi>Midſummer Day. 23 Jun. 1646.</hi>
+                  </p>
+                  <p>A large Remonſtrance and Petition to the <hi>Parliament</hi> touch<g ref="char:EOLhyphen"/>ing ſeveral publick Matters. <hi>20 May 1646.</hi> And a Petition,
+<pb n="9" facs="tcp:101038:6"/> 
+                     <hi>23 Jun. 1646.</hi> to the <hi>Common Council</hi> from divers <hi>Citizens,</hi> de<g ref="char:EOLhyphen"/>ſiring the proſecution thereof.</p>
+                  <p>
+                     <hi>Houſe of Commons</hi> to be moved for <hi>12000 <abbr>l.</abbr>
+                     </hi> out of the <hi>Exciſe,</hi> towards paying the Cities Forces. <hi>6 Aug. 1646.</hi>
+                  </p>
+                  <p>Reference touching disfranchiſement of Citizens that have ſi<g ref="char:EOLhyphen"/>ded with the enemy. <hi>6 Aug. 1646.</hi>
+                  </p>
+                  <p>Reference touching Two Hundred Thouſand Pounds deſired of the <hi>Common Council</hi> by the <hi>Parliament. 7 Septemb. 1646.</hi>
+                  </p>
+                  <p>Report to be made to the <hi>Parliament</hi> touching advancing the ſaid Money upon Security of Biſhops Lands &amp;c. <hi>9 Sept. 1646.</hi>
+                  </p>
+                  <p>Reference touching a Petition from divers well affected Free<g ref="char:EOLhyphen"/>men and Covenant ingaged Citizens. <hi>10 Dec. 1646.</hi>
+                  </p>
+                  <p>A Petition thereupon from the <hi>Common Council</hi> to the <hi>Parli<g ref="char:EOLhyphen"/>ament. 18 Decemb. 1646.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament,</hi> that <hi>(inter alia)</hi> ſuch as have been in oppoſition to the <hi>Parliament</hi> may be removed out of the City and kept at diſtance from the King; with a Seditious Petition annexed from ſeveral others. <hi>16 March. 1646.</hi>
+                  </p>
+                  <p>Reference touching a Governor to be appointed for <hi>Newcaſtle</hi> and <hi>Tinmouth. 26 March. 1647.</hi>
+                  </p>
+                  <p>Reference touching a Loan of Two Hundred Thouſand Pounds for which the <hi>Common Council's</hi> Aſſiſtance was deſired by the <hi>Parliament,</hi> and Propoſitions to the <hi>Parliament,</hi> and pro<g ref="char:EOLhyphen"/>ceedings thereupon <hi>6 &amp; 17 April, 3 &amp; 8 May, 1647.</hi>
+                  </p>
+                  <p>Order for a Sermon to be made to the <hi>Common Council,</hi> and the Covenant renewed by them, in order to nomination of the Militia, purſuant to an Order of <hi>Parliament. 23 April, 1647.</hi> The nomination of the Militia accordingly <hi>27 April, 1647.</hi>
+                  </p>
+                  <p>Order for a Sallery to <hi>Webb</hi> as Agitant to the Militia. <hi>5 Jun. 1647.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> touching the King, declaring <hi>(in<g ref="char:EOLhyphen"/>ter alia)</hi> their reſolutions to ſtand and fall with them according to the Covenant, <hi>8 Jun. 1647.</hi>
+                  </p>
+                  <p>Correſpondencies and Tranſactions between the General and chief Officers of the <hi>Parliament's</hi> Army and the <hi>Common Coun<g ref="char:EOLhyphen"/>cil,</hi> and proceedings relating to the Army. <hi>11 Jun. 12, 15, 17, 18, 23, 24, 25 Jun. 9, 24, 27, 28, 29, 30 July, 3, 4 &amp; 5 Aug. 20 &amp; 25 Novem. 1647. 12 May, 1, 2, 4, 6, 7 &amp; 9 Decemb. 1648. 13 Decemb. 1648.</hi>
+                  </p>
+                  <p>Petition from the <hi>Common Council</hi> to the <hi>Parliament</hi> con<g ref="char:EOLhyphen"/>cerning the Army and other matters. <hi>1 &amp; 6 July, 1647.</hi>
+                  </p>
+                  <p>Twenty Thouſand Pounds to be taken up under the Cities Seal for Military Affairs. <hi>29 July, 1647.</hi>
+                  </p>
+                  <p>Order touching raiſing One Hundred Thouſand Pounds for Military Affairs. <hi>30 July, 1647.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:101038:7"/>
+                  <p>General with the Officers of the Army invited to Dinner; and he then to be preſented with a Baſon and Euer of Gold. <hi>9 &amp; 13 Aug. 1647.</hi>
+                  </p>
+                  <p>Reference and Proceedings touching a Loan of Fifty Thou<g ref="char:EOLhyphen"/>ſand Pounds deſired by the <hi>Parliament</hi> and for getting in Aſſeſſ<g ref="char:EOLhyphen"/>ments. <hi>24 Auguſt, 4, 6, 11, 13 &amp; 20 Sept. 1647.</hi>
+                  </p>
+                  <p>Election of <hi>Lord MAYOR</hi> appointed to be on <hi>Michaelmas Eve</hi> becauſe a Faſt was appointed on <hi>Michaelmas-Day. 20 Sept. 1647.</hi>
+                  </p>
+                  <p>A Petition to the <hi>Parliament</hi> for divers matters, and proceed<g ref="char:EOLhyphen"/>ings thereupon, <hi>29 Novemb. &amp; 15 Decemb. 1647.</hi>
+                  </p>
+                  <p>Application to the <hi>Parliament</hi> and proceedings touching a tu<g ref="char:EOLhyphen"/>mult, <hi>11 &amp; 24 April, 1648.</hi>
+                  </p>
+                  <p>Petitions to and Negotiations with the <hi>Parliament</hi> touching Military and other publick Affairs, <hi>8, 10, 12, 19, 22, 24, 26 May, 28 &amp; 31 July, &amp; 29 Auguſt, 1648.</hi>
+                  </p>
+                  <p>Order for a Precept upon Information of a Plott againſt the <hi>Parliament</hi> and City, <hi>24 May, 1648.</hi>
+                  </p>
+                  <p>Petition of divers Citizens recommended to the <hi>Parliament</hi> for a ſettlement according to the Covenant, <hi>30 May, &amp; 1 June, 1648.</hi>
+                  </p>
+                  <p>Reference touching a Petition to the <hi>Common Council</hi> for a <hi>Common Hall:</hi> And a Declaration afterwards that it is in the power of the <hi>Common Council</hi> to aſſemble the <hi>Common Hall, 1 &amp; 3 June, 1648.</hi>
+                  </p>
+                  <p>A Petition to the <hi>Parliament</hi> complaining of private liſting of Souldiers, <hi>21 July, 1648.</hi>
+                  </p>
+                  <p>Order not to take a Letter and Declaration from the Prince into further conſideration, <hi>4 Auguſt, 1648.</hi>
+                  </p>
+                  <p>Orders for advancing Fourteen Thouſand Pounds deſired at ſeveral times by the <hi>Parliament, 4, 9, &amp; 19 Sept. &amp; 4 Nov. 1648.</hi>
+                  </p>
+                  <p>Reference upon a Paper preſented from the provincial Aſſem<g ref="char:EOLhyphen"/>bly, <hi>12 Octob. 1648.</hi>
+                  </p>
+                  <p>A Petition to the <hi>Parliament</hi> thereupon <hi>(inter alia)</hi> that the Biſhops Lands, &amp;c. in the Province of <hi>London</hi> may be ſetled upon the Miniſters, <hi>14 Octob. 1648.</hi>
+                  </p>
+                  <p>Orders and Proceedings touching better guarding of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> and ſeizing Delinquents, <hi>4 &amp; 27 Nov. 1648.</hi>
+                  </p>
+                  <p>Orders for paiment of One Thouſand Six Hundred Pounds for Military Affairs out of the next <hi>Aldermens</hi> Fines, <hi>27 Nov. &amp; 13 Jan. 1648.</hi>
+                  </p>
+                  <p>Vpon a Petition prepared to the <hi>Parliament</hi> for Iuſtice upon all Capital Actors, from the higheſt to the loweſt, in the War againſt the <hi>Parliament,</hi> brought into <hi>Common Council,</hi> and the
+<pb n="11" facs="tcp:101038:7"/> 
+                     <hi>Lord Mayors</hi> refuſal to put it to the queſtion; and He with the <hi>Aldermen</hi> and Officers at laſt withdrawing, the <hi>Commoners</hi> continued and put a <hi>Commoner</hi> in the Chair, and then Voted the ſaid Petition, and ordered it to be preſented in the Name of the <hi>Commons</hi> in <hi>Common Council,</hi> with a Narrative of that Days procéeding: And an Ordinance thereupon ſhortly after made by the <hi>Houſe of Commons</hi> touching the calling and hold<g ref="char:EOLhyphen"/>ing of <hi>Common Councils. 13 Jan. 1648.</hi>
+                  </p>
+                  <p>Alſo a Reference then made touching Officers to ſit in <hi>Com<g ref="char:EOLhyphen"/>mon Council,</hi> and whether they ſhall be choſen annually. <hi>13 Jan. 1648.</hi>
+                  </p>
+                  <p>
+                     <hi>George Griffith</hi> appointed to pray before the <hi>Common Council.</hi> Alſo a Reference touching a <hi>Loan</hi> of <hi>120000 <abbr>l.</abbr>
+                     </hi> deſired by the <hi>Houſe of Commons. 12 April 1649.</hi>
+                  </p>
+                  <p>Declaration that the <hi>Recorder</hi> is an Officer of the <hi>Common Council. 29 May 1649.</hi>
+                  </p>
+                  <p>
+                     <hi>Commons in Parliament, Fairfax, Council of State, &amp;c.</hi> In<g ref="char:EOLhyphen"/>vited to Dinner on a Thankſgiving Day at the charge of the <hi>Chamber.</hi> A <hi>Baſon</hi> and <hi>Ewer</hi> of Gold then to be preſented to <hi>Fairfax,</hi> and <hi>934</hi> Ounces of Plate and <hi>200 <abbr>l.</abbr>
+                     </hi> in Gold to <hi>Crom<g ref="char:EOLhyphen"/>well. 29 May, &amp; 2 June 1649.</hi>
+                  </p>
+                  <p>Order touching Election of an Alderman of <hi>Bread-ſtreet. 2 June 1649.</hi>
+                  </p>
+                  <p>Entry of an Order of the <hi>Houſe of Commons</hi> for the <hi>Lord Mayor</hi> to deliver the Sword to the <hi>Speaker</hi> upon his reception in the City. <hi>6 June 1649.</hi>
+                  </p>
+                  <p>
+                     <hi>William Steel</hi> choſen Recorder by <hi>Common Council,</hi> by virtue of an Act of the <hi>Houſe of Commons. 3 July 1649.</hi>
+                  </p>
+                  <p>
+                     <hi>Robert Mitchell</hi> Town Clerk diſplaced, and <hi>Jo. Sadler</hi> elected. <hi>3 July 1649.</hi>
+                  </p>
+                  <p>A Committée to conſider with a Committée of the <hi>Houſe of Commons</hi> for raiſing <hi>150000 <abbr>l.</abbr>
+                     </hi> for <hi>Ireland. 5 July 1649.</hi>
+                  </p>
+                  <p>Orders touching Arrears due to Commanders. <hi>18 July, 18 Sept. &amp; 11 Decemb. 1649.</hi>
+                  </p>
+                  <p>Order to refer to the <hi>Houſe of Commons</hi> a difference with the <hi>Court of Aldermen</hi> touching choice of <hi>Recorder. 18 July 1649.</hi>
+                  </p>
+                  <p>Order, that at the riſing of every <hi>Common Council</hi> another <hi>Common Council</hi> ſhall be appointed. <hi>1 Sept. 1649.</hi>
+                  </p>
+                  <p>Orders relating to Aſſeſſments made for the <hi>Parliaments</hi> Ar<g ref="char:EOLhyphen"/>my. <hi>1 &amp; 6 Sept. 1649.</hi>
+                  </p>
+                  <p>Orders for buying from the <hi>Commiſſioners</hi> at <hi>Gurny Houſe</hi> the reverſion of the Mannor of <hi>Finsbury,</hi> being <hi>Deans</hi> and <hi>Chap<g ref="char:EOLhyphen"/>ters</hi> Lands. <hi>25 Sept. &amp; 9 Oct. 1649.</hi>
+                  </p>
+                  <p>Reference touching the <hi>Lord Mayors</hi> and <hi>Sheriffs</hi> Houſe-keeping. <hi>9 Nov. 1649.</hi>
+                  </p>
+                  <pb n="12" facs="tcp:101038:8"/>
+                  <p>Report that no Places be diſpoſed without order of <hi>Common Council. 14 Novemb. 1649.</hi>
+                  </p>
+                  <p>Order for allowances to be made Monthly out of the <hi>Chamber</hi> to the <hi>Lord Mayor</hi> and <hi>Sheriffs. 7 Decemb. 1649.</hi>
+                  </p>
+                  <p>Act touching <hi>Lord Mayors</hi> and <hi>Sheriffs</hi> Houſe-kéeping; (As alſo the Act made in the Reign of <hi>Ph. &amp; Ma.</hi> therein mentioned) and for making them allowances out of the <hi>Chamber;</hi> and a<g ref="char:EOLhyphen"/>gainſt Selling of Places: And that the <hi>Com. Council</hi> ſhall no<g ref="char:EOLhyphen"/>minate two Perſons to all Places, and the <hi>Mayor</hi> and <hi>Aldermen</hi> to chooſe One. <hi>11 Decemb. 1649.</hi>
+                  </p>
+                  <p>Order touching Aſſeſſments for Forts &amp; Guards. <hi>9 Dec. 1649.</hi>
+                  </p>
+                  <p>Two Perſons nominated to the <hi>Court of Aldermen</hi> for Clerk of the <hi>Bridge-Houſe. 21 Jan. 1649.</hi> For one of the Cities Mu<g ref="char:EOLhyphen"/>ſick. <hi>8 April 1650.</hi> For <hi>Sheriffs</hi> Officers. <hi>24 March 1650. 18 April 1651.</hi> For <hi>Common Pleader. 29 April 1651.</hi>
+                  </p>
+                  <p>Reference for revoking Procéedings in <hi>1646.</hi> concerning a Petition to the King, and all others that reflect on the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> or <hi>Army. 25 Jan. 1649.</hi>
+                  </p>
+                  <p>The ſtile of all Petitions to the <hi>Parliament</hi> as the Supream Authority; or to the <hi>Parliament</hi> of the <hi>Common-wealth, &amp;c.</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>his Highneſs <hi>Oliver, Lord Protector, &amp;c.</hi>
+                  </p>
+                  <p>Petition for altering the Laws. <hi>25 Jan. 1649.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondaries</hi> Places to be diſpoſed by a Committée. <hi>6 Feb. 1649.</hi>
+                  </p>
+                  <p>Reference touching a Petition for ſatisfaction of Perſons, alledged to have laid out themſelves for the <hi>Publick Safety. 7 Febr. 1649.</hi>
+                  </p>
+                  <p>
+                     <hi>Common Councils</hi> acknowledgment to the <hi>Parliament,</hi> decla<g ref="char:EOLhyphen"/>ring their Reſolutions to ſtand and fall with them. <hi>2 Apr. 1650.</hi>
+                  </p>
+                  <p>Narrative touching a <hi>Common Council</hi> call'd without <hi>Lord Mayors</hi> directions, and held after his departure from it, by vir<g ref="char:EOLhyphen"/>tue of an Ordinance of <hi>Parliament. 14 &amp; 17 June 1650.</hi>
+                  </p>
+                  <p>Report touching the Place of <hi>Recorder,</hi> and other Officers. Alſo, Order touching allowances to be made by the <hi>Committee</hi> appointed for the Sale of Offices. <hi>9 July 1650.</hi>
+                  </p>
+                  <p>Agréement of the <hi>Common Council</hi> to Faſt and Pray for the Army gone into <hi>Scotland. 20 Auguſt 1650.</hi>
+                  </p>
+                  <p>Orders touching a Contribution from the <hi>Common Council</hi> to the Army, <hi>27 Aug. 12 &amp; 24 Sept. 18 Decemb. 1650.</hi>
+                  </p>
+                  <p>Thankſgiving appointed for the Victory in <hi>Scotland, 12 Sept. 1650.</hi>
+                  </p>
+                  <p>Queſtion put after the <hi>Lord MAYOR</hi> and <hi>Aldermen</hi> gone out of the <hi>Common Council, 26 Septemb. 1650.</hi>
+                  </p>
+                  <p>Touching Elections of <hi>Common Council-Men,</hi> and prepa<g ref="char:EOLhyphen"/>ring orders for proceeding and adjourning of <hi>Common Councils 7, 15 &amp; 26 Febr. 1650.</hi>
+                  </p>
+                  <pb n="13" facs="tcp:101038:8"/>
+                  <p>Order touching dividing of the Court, <hi>28 Feb. 1650.</hi>
+                  </p>
+                  <p>In Mr. <hi>Griffith's</hi> abſence, ſome Member to pray in <hi>Common Council, 15 March. 1650.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> to be excuſed the further Charge of ſome Troops, declaring they had already coſt them Two and Twenty Thouſand Pounds in the expedition againſt <hi>Scotland, 10 April. 1651.</hi>
+                  </p>
+                  <p>Order that <hi>Lord MAYOR</hi> iſſue out Warrants for new E<g ref="char:EOLhyphen"/>lections of <hi>Common Council Men</hi> in place of thoſe that have not taken the Oath required by <hi>Parliament, 25 April, 1651.</hi>
+                  </p>
+                  <p>Order that <hi>Common Council Men</hi> may depart within an hour after <hi>Summons, 13 May. 1651.</hi>
+                  </p>
+                  <p>Alſo that no new matter be moved in <hi>Common Council</hi> after Twelve in the Morning and Seven in the Evening, <hi>Ibid.</hi>
+                  </p>
+                  <p>Faſt appointed for ſucceſs of the Army in <hi>Scotland, 3 June. 1651.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> for Writts to elect new <hi>Burgeſſes, 12 June, 1651.</hi>
+                  </p>
+                  <p>Election of one of the <hi>Prothonotaries</hi> in the <hi>Sheriffs</hi> Courts, <hi>19 June, 1651.</hi>
+                  </p>
+                  <p>Proceedings at a <hi>Common Council</hi> after the <hi>Lord MAYOR</hi> and <hi>Aldermen</hi> were gone out, and <hi>Owen Row</hi> voted into the <hi>Chair, 2 July, 1651.</hi>
+                  </p>
+                  <p>And <hi>29 July, 1651. Owen Row</hi> voted into the <hi>Chair</hi> by the <hi>Commons</hi> in <hi>Common Council</hi> before the <hi>Lord MAYOR</hi> and <hi>Aldermen</hi> came in.</p>
+                  <p>Reſolve of <hi>Common Council</hi> to adventure Lives and Eſtates in defence of the <hi>Common-Wealth</hi> againſt the King of <hi>Scotland,</hi> and proceedings thereupon, <hi>11 Aug. 1651.</hi>
+                  </p>
+                  <p>Thanksgiving appointed for ſeveral Victories, <hi>7 Oct. 1651.</hi>
+                  </p>
+                  <p>Order that the <hi>Lord MAYOR</hi> and <hi>Aldermen</hi> withdraw out of the <hi>Common Council,</hi> and the <hi>Commons</hi> turned into a grand <hi>Committee, 3 Decemb. 1651.</hi>
+                  </p>
+                  <p>That none be admitted to the Freedom without notice of the <hi>Common Council, 12 Decem. 1651. 11 March, 1652.</hi> As alſo ſo much of an Act or Order made <hi>16 Octob. 1638.</hi> upon Report to the <hi>Common Council</hi> as limits the number of perſons to be admitted into the Freedom by order of the <hi>Lord MAYOR</hi> and <hi>Aldermen.</hi>
+                  </p>
+                  <p>Votes touching allowances to <hi>Lord MAYOR</hi> and <hi>Sheriffs</hi> out of the <hi>Chamber, 15 June, &amp; 20 July, 1652.</hi>
+                  </p>
+                  <p>Thankſgiving appointed for the Victory obtained by the <hi>Parli<g ref="char:EOLhyphen"/>ament's</hi> Forces at <hi>Worceſter, 26 Aug. 1652.</hi>
+                  </p>
+                  <pb n="14" facs="tcp:101038:9"/>
+                  <p>Order for preſenting to the <hi>Council of State</hi> Votes touching perquiſites to <hi>Lord MAYOR, &amp;c. 7 Octob. 1652.</hi>
+                  </p>
+                  <p>Order touching diſpoſal of <hi>Cole-meaters</hi> places, <hi>12 Octob. 1652.</hi>
+                  </p>
+                  <p>
+                     <hi>Common Councils</hi> held without the <hi>Lord MAYOR,</hi> or con<g ref="char:EOLhyphen"/>tinued after his going out, <hi>7 &amp; 14 Decemb. 1652. 14 &amp; 15 Jun. &amp; 24 Oct. 1653.</hi>
+                  </p>
+                  <p>Petition touching the Miniſters maintenance, acknowledg<g ref="char:EOLhyphen"/>ing the <hi>Parliament</hi> for delivering them from their Perſecutors, &amp;c. <hi>1 Sept. 1653.</hi>
+                  </p>
+                  <p>
+                     <hi>Cromwell</hi> (Protector) and his <hi>Council</hi> invited to dine at <hi>Grocers-Hall</hi> at the charge of the <hi>Chamber;</hi> and the <hi>Common Council</hi> to attend him at his coming into the City, <hi>25 Jan. 1653.</hi>
+                  </p>
+                  <p>
+                     <hi>S. C.</hi> with the Dagger to be ſet upon new Meaſures inſtead of the Letter <hi>C</hi> and the Crown, <hi>29 Novemb. 1654.</hi>
+                  </p>
+                  <p>In an Act <hi>1632</hi> theſe words <hi>(His Majeſties liege People)</hi> alter<g ref="char:EOLhyphen"/>ed to <hi>(The People of the Nation)</hi> and <hi>(his Majeſties)</hi> Court to be left out, <hi>12 Decem. 1654.</hi>
+                  </p>
+                  <p>Petition to the <hi>Parliament</hi> touching <hi>Publick-Faith</hi> Debts, declaring their former Aſſiſtances given the <hi>Parliament</hi> for the publick preſervation, <hi>16 Jan. 1654.</hi>
+                  </p>
+                  <p>Thanks to the <hi>Protector</hi> for his great care of the peace and ſafety of the City, <hi>17 Feb. 1654.</hi>
+                  </p>
+                  <p>Orders for iſſuing Money out of the <hi>Chamber</hi> for the uſe of the <hi>Militia, 13 March, 1654. 16 Sept. 3 Octob. 1656. 23 Oct. 1657. 8 Sept. 12 Octob. &amp; 6 Decemb. 1658.</hi>
+                  </p>
+                  <p>So much of an Act as appoints the choice of a <hi>Committee</hi> for placing and diſplacing Miniſters of Priſons, <hi>16 Decem. 1656</hi>
+                  </p>
+                  <p>Order for paiment of charges about the Guards in <hi>Pauls, 25 Jan. 1657.</hi>
+                  </p>
+                  <p>Petition to <hi>Cromwell,</hi> acknowledging ſubjection to his Go<g ref="char:EOLhyphen"/>vernment, <hi>16 March. 1657.</hi>
+                  </p>
+                  <p>Recorder to condole the Death of the old <hi>Protector,</hi> and con<g ref="char:EOLhyphen"/>gratulate his Succeſſor, owning him as the Chief Magiſtrate, and declare their reſolutions to adhere to him againſt all Oppo<g ref="char:EOLhyphen"/>ſers, <hi>8 Decemb. 1658.</hi>
+                  </p>
+                  <p>Petition to the <hi>Rump</hi> upon their Reſtauration, <hi>31 May. 1659.</hi>
+                  </p>
+                  <p>
+                     <hi>Common Council</hi> held without the <hi>Lord MAYOR,</hi> and Lord <hi>Tichborne</hi> voted into the <hi>Chair, 21 Sept. 1659.</hi>
+                  </p>
+                  <p>
+                     <hi>Parliament, Council of State,</hi> Officers of the Army, &amp;c. in<g ref="char:EOLhyphen"/>vited to Dinner with the <hi>Common Council</hi> at the charge of the <hi>Chamber, 30 Sept. 1659.</hi>
+                  </p>
+                  <pb n="15" facs="tcp:101038:9"/>
+                  <p>
+                     <hi>All which Particulars aforeſaid being highly diſloyal, or ſavouring of the Faction and Uſurpation of thoſe unhappy Times, are fit by Act of this Court to be diſclaimed, revoked, abrogated and repealed to all intents and purpoſes whatſoever; which as it will demonſtrate the Loyalty and good Affections of the preſent Members of this Court to his Majeſty and the eſtabliſhed Government, and vindicate them from all imputation of the like pernicious and deſtructive Principles and Practices, and will alſo ex<g ref="char:EOLhyphen"/>preſs their diſlike of all factious Innovation in the Uſages and Conſtitutions of this City; ſo will it prevent any ill uſe that may be made in time to come of the ſaid irregular Actions.</hi>
+                  </p>
+                  <p>
+                     <hi>And we having alſo ſeen ſeveral Entries in the <hi>Journals</hi> of this Court, that the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> upon matters here propounded, have taken time to adviſe and conſider thereof, and to others have declared their diſſent, and even in thoſe worſt of Times; as for Inſtance, The 14 <hi>March</hi> 1641. upon two Petitions brought into <hi>Common Council</hi> by a Committee to be preſented to the Parliament, they were read, but not voted; becauſe the <hi>Mayor's Locum tenens,</hi> and the Major part of the <hi>Aldermen</hi> thought fit to adviſe of the ſame. And 24 <hi>Jan.</hi> 1644. it was declared by the Lord <hi>Mayor</hi> and <hi>Aldermen,</hi> That they had a Negative Voice in <hi>Common Council</hi> by the ancient Cuſtom and Charters of this City. And we having alſo ſeen the Opinions of divers Learned Councils, heretofore given to the <hi>Court of Al<g ref="char:EOLhyphen"/>dermen</hi> under their hands, <hi>viz.</hi> the preſent L. Chief Juſtice <hi>Pemberton,</hi> Sir <hi>W. Dolbin,</hi> Serjeant <hi>Maynard,</hi> Sir <hi>W. Jones,</hi> Sir <hi>G. Jeffries,</hi> and Sir <hi>Fr. Winnington,</hi> that the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> have a Negative Voice in making Laws and Orders, and admitting of Officers in <hi>Common Council;</hi> we humbly pro<g ref="char:EOLhyphen"/>pound (to take away all diſputes in this matter for the time to come) that the ſame may have the approbation and concurrence of this Honourable Court.</hi>
+                  </p>
+                  <p>
+                     <hi>And becauſe We find the uſage for the <hi>Lord Mayor</hi> to nominate or elect one of the <hi>Sheriffs</hi> of this City and County of <hi>Middleſex</hi> was call'd in que<g ref="char:EOLhyphen"/>ſtion, in thoſe troubleſom and diſorderly Times (as it hath unhappily been this Year or two laſt paſt) We have examined the uſage in that particular; and find it very ancient, and not queſtioned (that we can find) until the breaking out of thoſe Troubles. We have alſo ſeen very many Acts of <hi>Common Council</hi> that take notice of and allow it, and particularly the Act made 7 <hi>Car.</hi> 1 touching the Election of <hi>Sheriffs;</hi> to which laſt mentioned Act we are of Opinion, that an addition or explanation ſhould be made in ſome particulars, which ſeem not ſufficiently provided for thereby. And we have prepared a Bill for that purpoſe which we here preſent to this Honou<g ref="char:EOLhyphen"/>rable Court. And therein alſo the ſaid Uſage for the <hi>Lord Mayors</hi> Nomina<g ref="char:EOLhyphen"/>tion or Election of one of the <hi>Sheriffs</hi> is further declared, and proviſion made to remove all Diſputes that might hereafter be made touching the ſame; by which the peace and quiet of this City hath been of late ſo greatly diſturbed.</hi>
+                  </p>
+                  <closer>
+                     <dateline>All which Matters are humbly ſubmitted to the wiſdom and good plea<g ref="char:EOLhyphen"/>ſure of this Honourable Court. <date>
+                           <hi>This Fifth day of</hi> June, 1683.</date>
+                     </dateline>
+                     <signed>
+                        <list type="list_of_signatories">
+                           <item>
+                              <hi>William Turner,</hi>
+                           </item>
+                           <item>
+                              <hi>James Edwards,</hi>
+                           </item>
+                           <item>
+                              <hi>John Moore,</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Tulce,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Langham,</hi>
+                           </item>
+                           <item>
+                              <hi>Francis Griffith,</hi>
+                           </item>
+                           <item>
+                              <hi>Nathaniel Hawes,</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Loades,</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Aylworth,</hi>
+                           </item>
+                           <item>
+                              <hi>Nicholas Charlton,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Vernon,</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="16" facs="tcp:101038:10"/>
+            <p>
+               <hi>After reading of which Report here openly in this Court, the ſame was by this Court (in the ſeveral particulars thereof) well approved of, and a<g ref="char:EOLhyphen"/>greed to and confirmed: <hi>And it is Enacted by the</hi> Lord Mayor, Aldermen, <hi>and</hi> Commons <hi>in this</hi> Common Council <hi>Aſſembled, That all the ſeveral Acts, Orders and Proceedings therein propounded to be Diſclaimed and Repealed, be re<g ref="char:EOLhyphen"/>pealed and made void; And they and every of them are by Authority of this Court diſclaimed, repealed, and made null and void.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>And the Bill in the ſaid Report mentioned being now likewiſe read, it was put to the queſtion, whether the ſame ſhould be read again or recom<g ref="char:EOLhyphen"/>mitted? and it being thereupon determined to be read again, it was ſo done accordingly; And a Queſtion being then put, whether the ſame ſhould be read a third time? it was carried againſt the further reading thereof. Then upon a further Queſtion, whether the ſaid Bill ſhould paſs, or no? and Poll <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thereupon, 113 <hi>Commoners</hi> being for the paſſing it, and 78 a<g ref="char:EOLhyphen"/>gainſt it, the ſame was paſſed and made the Act of this Court, the Tenor of which Bill is as followeth: That is to ſay,</hi>
+            </p>
+            <p>WHereas by an Act of <hi>Common Council</hi> made in the Seventh Year of King <hi>Charles</hi> the Firſt of Bleſſed memory (<hi>Ducy</hi> Mayor) It is (amongſt other things) Enacted, That if any perſon being a Freeman of this City ſhall be choſen or elected Sheriff of the ſame City and County of <hi>Middleſex,</hi> and publi<g ref="char:EOLhyphen"/>cation thereof by open Proclamation being made in the <hi>Guild-Hall,</hi> in the place where the Court of <hi>Huſtings</hi> is uſually holden in the preſence of the <hi>Lord Mayor</hi> and Sir <hi>Aldermen</hi> for the time being at the leaſt, or in the abſence of the <hi>Lord Mayor,</hi> then in the preſence of Eight <hi>Aldermen</hi> of the ſaid City for the time being at the leaſt, and being called to come forth and give his conſent to take the ſaid Office of <hi>Shrievalty</hi> upon him, ſhall not perſo<g ref="char:EOLhyphen"/>nally before the <hi>Lord Mayor</hi> and <hi>Court of Aldermen</hi> for the time be<g ref="char:EOLhyphen"/>ing, in the inner <hi>Chamber</hi> of <hi>Guild-Hall</hi> aforeſaid, at the next Court there to be holden, unleſs he have ſuch reaſonable excuſe as the <hi>Lord Mayor</hi> and greater part of the <hi>Aldermen</hi> for the time being ſhall in open Court allow; and then and there become bound to the <hi>Chamberlain</hi> of the ſame City for the time being and his Succeſſors by his Deed Obligatory, in the Sum of <hi>1000 <abbr>l.</abbr>
+               </hi> with Condition that if he ſhall perſonally appear in the publick aſſembly in the <hi>Guild-Hall</hi> of the ſame City on the Vigil of St. <hi>Michael</hi> the <hi>Arch-Angel</hi> then next following, at the time in that behalf accuſtomed, and then and there take upon him the Office and charge of <hi>Shrievalty</hi> of the ſaid City and County of <hi>Middle<g ref="char:EOLhyphen"/>ſex;</hi> that then the ſaid Obligation ſhall be void. Or if ſuch Per<g ref="char:EOLhyphen"/>ſon ſo to be choſen or elected ſhall before the <hi>Lord Mayor</hi> and <hi>Court of Aldermen,</hi> openly declare his refuſal to take upon him the ſaid Office, then every ſuch perſon as ſhall make ſuch default in ap<g ref="char:EOLhyphen"/>pearance, or ſhall not become bounden, or which ſhall declare his refuſal as aforeſaid, ſhall forfeit the Sum of <hi>400 <abbr>l.</abbr>
+               </hi> of lawful Money of <hi>England</hi> to the <hi>Mayor</hi> and <hi>Comonalty</hi> of the ſame City to be employed to the uſes in the ſaid Act declared and expreſſed, unleſs he ſhall be duly diſcharged of the ſaid Office of <hi>Shrievalty</hi> for want or defect of ability in Wealth upon Oath taken, as in
+<pb n="17" facs="tcp:101038:10"/> and by the ſaid Act is mentioned and directed. Provided, and it is thereby further Enacted, That if the Perſon ſo to be choſen or elected, and making default in appearance or denying to be<g ref="char:EOLhyphen"/>come bound, or that ſhall declare his refuſal as aforeſaid, ſhall be an <hi>Alderman</hi> of this City at the time of his Choiſe or Electi<g ref="char:EOLhyphen"/>on, then every ſuch <hi>Alderman</hi> ſo to be choſen or elected ſhall for<g ref="char:EOLhyphen"/>feit <hi>600 Marks</hi> of lawful money of <hi>England</hi> to the <hi>Mayor</hi> and <hi>Co<g ref="char:EOLhyphen"/>minalty</hi> of the ſame City to be employed to the uſes in the ſaid Act declared and expreſſed. Now foraſmuch as the ſaid Penalty of <hi>600 Marks</hi> in caſe of an <hi>Alderman</hi> choſen to the ſaid Office of <hi>Sheriff,</hi> and not appearing or refuſing to be bound or to take the ſame upon him as aforeſaid, is conceived to be too ſmall for the end thereby intended, and is requiſite to be inlarged. Be it there<g ref="char:EOLhyphen"/>fore Enacted by the Right Honourable the <hi>Lord Mayor,</hi> the Right Worſhipful the <hi>Aldermen,</hi> and the <hi>Commons</hi> in <hi>Common Council</hi> aſſembled, That every <hi>Alderman</hi> of this City that ſhall hereaf<g ref="char:EOLhyphen"/>ter be choſen or elected one of the <hi>Sheriffs</hi> of the ſaid City and County of <hi>Middleſex</hi> (not having before ſerved the ſaid Office) and ſhall not appear the next <hi>Court of Aldermen</hi> after ſuch Electi<g ref="char:EOLhyphen"/>on, or ſhall there deny to become bound, or declare his refuſal to take the ſaid Office upon him according to the direction and in<g ref="char:EOLhyphen"/>tent of the ſaid recited Act; then every ſuch <hi>Alderman</hi> ſhall forfeit the Sum of <hi>600 <abbr>l.</abbr>
+               </hi> of lawful money of <hi>England</hi> to the <hi>Mayor,</hi> and <hi>Commonalty</hi> and <hi>Citizens</hi> of the ſaid City, to be employed to the ſame uſes, and recovered in the ſame manner as the ſaid <hi>600 Marks</hi> is appointed to be employed and recovered in and by the ſaid recited Act. And foraſmuch as Doubts have ariſen touching the meaning of the Clauſe firſt before mentioned in the ſaid reci<g ref="char:EOLhyphen"/>ted Act, and to the end that no perſon or perſons that ſhall hereaf<g ref="char:EOLhyphen"/>ter be choſen or elected to the Office of <hi>Sheriff</hi> of this City and County of <hi>Middleſex,</hi> may pretend upon Conſtruction of the ſaid Act, to exempt him or themſelves from taking upon him or them the ſaid Office, by payment of the Forfeitures in this or the ſaid recited Act contained, but may notwithſtanding be liable to ſerve the ſaid Office; Be it Enacted by the Authority aforeſaid, That every perſon and perſons, whether <hi>Aldermen</hi> or <hi>Commoners,</hi> being Free-men of the City of <hi>London,</hi> who ſhall hereafter be choſen or elected to be <hi>Sheriff</hi> or <hi>Sheriffs</hi> of the ſaid City and County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> and publication be thereof made according to the direction of the ſaid Act, and by making default in appearance, or denying to become bound, or declaring his or their refuſal, as aforeſaid, ſhall incurr the Forfeitures aforeſaid, ſhall notwithſtanding the ſaid Forfeitures (unleſs He or They ſhall upon payment thereof be by Order of the ſaid Court of <hi>Lord Mayor</hi> and <hi>Aldermen</hi> ex<g ref="char:EOLhyphen"/>empted for that Year from taking upon him or them the ſaid Of<g ref="char:EOLhyphen"/>fice) hold the ſame, and be preſented to the <hi>Barons</hi> of his <hi>Majeſties Exchequer,</hi> to be by them amerced in caſe of his or their abſenting or refuſing to take upon Him or Them the ſaid Office. The afore<g ref="char:EOLhyphen"/>ſaid Act, or any other Act or Acts of this Court, or any Law, V<g ref="char:EOLhyphen"/>ſage, or Cuſtom of this City to the contrary notwithſtanding.
+<pb n="18" facs="tcp:101038:11"/> Provided always, and be it Enacted by the Authority aforeſaid, That no perſon or perſons that ſhall hereafter be Choſen or Ele<g ref="char:EOLhyphen"/>cted to the Office of <hi>Sheriff</hi> of the ſaid City and County, and ſhall be preſented to the <hi>Barons</hi> of the <hi>Exchequer,</hi> to the end He or They may be compelled to take upon Him or Them the ſaid Office, and ſhall thereupon take upon Him the ſaid Office, ſhall be in any wiſe liable to pay or be proſecuted for any of the Forfeitures and Penalties in this or the ſaid recited Act men<g ref="char:EOLhyphen"/>tioned. Any thing in this or the ſaid Act contained to the con<g ref="char:EOLhyphen"/>trary notwithſtanding. And whereas it hath been an ancient Cuſtom and Vſage in chooſing the <hi>Sheriffs</hi> of the City of <hi>London</hi> and County of <hi>Middleſex,</hi> (allowed and approved by divers Acts of <hi>Common Council</hi>) for the <hi>Lord Mayor</hi> to elect a Perſon to be one of the ſaid <hi>Sheriffs,</hi> and the <hi>Commons</hi> in <hi>Common-Hall</hi> to con<g ref="char:EOLhyphen"/>firm the ſaid Election; And there have been of late great and fierce Diſputes and Conteſts within this City touching the ſaid Vſage, which hath given great Diſturbance to very many good <hi>Citizens</hi> and offence to his <hi>Majeſty</hi> (upon whoſe Grace and Favour the welfare of this City ſo much depends,) and Fewds and Ani<g ref="char:EOLhyphen"/>moſities have thereby ariſen, and are ſtill too much continued a<g ref="char:EOLhyphen"/>mong many <hi>Citizens,</hi> and othee manifold Inconveniences and Miſchiefs have been occaſioned thereby to this City, and greater may enſue, if due remedy be not provided to take away and re<g ref="char:EOLhyphen"/>move all occaſion of the like Differences for the future. For prevention therefore of the ſaid Miſchiefs, and to remove all Diſ<g ref="char:EOLhyphen"/>putes and Controverſies that may ariſe in time to come, touch<g ref="char:EOLhyphen"/>ing the Confirmation of ſuch Perſon as ſhall be choſen to be one of the ſaid <hi>Sheriffs</hi> by the <hi>Lord Mayor</hi> for the time being; Be it Declared and Enacted by the Authority aforeſaid, That here<g ref="char:EOLhyphen"/>after the Perſon who ſhall be Nominated and Elected accord<g ref="char:EOLhyphen"/>ing to ancient Vſage by the <hi>Lord Mayor</hi> of this City for the time being, to be one of the <hi>Sheriffs</hi> of the City of <hi>London</hi> and Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> and ſuch Election ſhall be declared to the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of the ſaid City aſſembled in <hi>Common-Hall</hi> upon the 24th Day of <hi>June</hi> (being the Day appointed by the afore-recited Act) as well for Confirmation and Allowance of ſuch Perſon as ſhall be choſen and elected by the <hi>Lord Mayor</hi> to be <hi>Sheriff</hi> of the ſaid City and County, as alſo for the Choice and Election of ſuch other Perſons as by the <hi>Lord Mayor, Aldermen</hi> and <hi>Commons</hi> ſhall be choſen to be <hi>Sheriffs</hi> of the ſaid City and County) ſhall there by the ſaid <hi>Commons</hi> be Confirmed and allowed to be one of the <hi>Sheriffs</hi> of the ſaid City and County accordingly. And that upon propoſing the ſaid Perſon to be Confirmed to the ſaid <hi>Common-Hall,</hi> in caſe any Hands ſhall be holden up in token of Confir<g ref="char:EOLhyphen"/>mation, the ſaid Perſon ſhall be taken to be Confirmed and allowed, and then another Perſon ſhall be choſen by Majority of Hands to be the other of the ſaid <hi>Sheriffs,</hi> and to joyn with Him that ſhall be ſo confirmed. Any former Law, Vſage, or other Matter whatſoever to the contrary notwithſtanding.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
